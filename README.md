@@ -9,3 +9,34 @@ My analyses notebooks have section headers to explain the code that follows, and
 Data source: https://brownbears.com/index.aspx
 
 Tools: Selenium, python, regex, pandas, DataWrapper, Flourish, d3. 
+
+Codebook
+
+Men's:
+
+Class Year: string, format: FR,SO,JR,SR
+Height: string, format: feet + inches
+Hometown: string, format: city, state / city, country  (if international)
+Name: string, format: FIRST LAST NAME
+Number: float, format: d.0
+Position: string, format: G/F/C
+School: string
+Weight: float, format: pounds
+Team: string, Men's/Women's
+Roster: string, format: 20xx-yy
+
+Women's
+
+Class Year: string, format: FR,SO,JR,SR,RS (red-shirt)
+Height: string, format: feet + inches
+Hometown: string, format: city, state / city, country  (if international)
+Name: string, format: FIRST LAST NAME
+Number: float, format: d.0
+Position: string, format: GUARD,FORWARD,CENTER,GUARD/FORWARD
+Team: string, Men's/Women's
+Roster: string, format: 20xx-yy
+
+
+
+
+
