@@ -16,7 +16,7 @@ Men's:
 
 - Class Year: string, format: FR,SO,JR,SR
 - Height: string, format: feet + inches
-- Hometown: string, format: city, state / city, country  (if international)
+- Hometown: string, format: city, state (abbr.) / city, country  (if international)
 - Name: string, format: FIRST LAST NAME
 - Number: float, format: d.0
 - Position: string, format: G/F/C
