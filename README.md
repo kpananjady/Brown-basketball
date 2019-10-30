@@ -33,6 +33,7 @@ Women's
 - Name: string, format: FIRST LAST NAME
 - Number: float, format: d.0
 - Position: string, format: GUARD,FORWARD,CENTER,GUARD/FORWARD
+- School: string
 - Team: string, Men's/Women's
 = Roster: string, format: 20xx-yy
 
