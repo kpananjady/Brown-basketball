@@ -14,7 +14,7 @@ Codebook
 
 Men's:
 
-Class Year: string, format: FR,SO,JR,SR\n
+Class Year: string, format: FR,SO,JR,SR
 Height: string, format: feet + inches
 Hometown: string, format: city, state / city, country  (if international)
 Name: string, format: FIRST LAST NAME
