@@ -35,7 +35,7 @@ Women's
 - Position: string, format: GUARD,FORWARD,CENTER,GUARD/FORWARD
 - School: string
 - Team: string, Men's/Women's
-= Roster: string, format: 20xx-yy
+- Roster: string, format: 20xx-yy
 
 
 
