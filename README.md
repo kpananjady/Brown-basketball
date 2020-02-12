@@ -6,11 +6,11 @@ On this website you can find jupyter notebooks that I used to scrape rosters fro
 
 My analyses notebooks have section headers to explain the code that follows, and function comments are inline. Questions that arise about my data over the course of my analysis are also inline. 
 
-I've included some screenshots of basic viz to help with leads, etc. 
+I've included some screenshots of basic viz to help with leads, etc. Links to the original Datawrapper projects are available in the text file.
 
 Data source: https://brownbears.com/index.aspx
 
-Tools: Selenium, python, regex, pandas, DataWrapper, d3. 
+Tools: Selenium, python, regex, pandas, DataWrapper. 
 
 Codebook
 
