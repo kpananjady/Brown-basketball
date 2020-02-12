@@ -10,7 +10,7 @@ I've included some screenshots of basic viz to help with leads, etc.
 
 Data source: https://brownbears.com/index.aspx
 
-Tools: Selenium, python, regex, pandas, DataWrapper, Flourish, d3. 
+Tools: Selenium, python, regex, pandas, DataWrapper, d3. 
 
 Codebook
 
