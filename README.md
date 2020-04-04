@@ -42,7 +42,7 @@ Women's
 Here's a caveat to this analysis that you should definitely read!
 Note about red-shirts: They're weird, and the have the potential to complicate these findings. For starters, only the women's team uses them, and it uses them only in 2009-10 data. Some people classified as red-shirts reappear with different class years in later data. The reason this is annoying is because of the way I define the population eligible to stay on for another year, i.e. anyone who is not a senior. 
 
-In the absence of a RS designation, people could be listed as they same class year in consecutive years. If people start being listed as seniors multiple times in consecutive years, that messes with my definition of an eligible population and therefore any estimation of a retention/attrition rate that I can come up with. (I point out examples of this in the men's analysis notebook.) One of the first orders of business is going to be to understand this dataset from the people who maintain it and understand why they use RS or don't use it. Time to go bug Brown Athletics!
+In the absence of a RS designation, people could be listed with the same class year in consecutive years. If people start being listed as seniors multiple times in consecutive years, that messes with my definition of an eligible population and therefore any estimation of a retention/attrition rate that I can come up with. (I point out examples of this in the men's analysis notebook.) One of the first orders of business is going to be to understand this dataset from the people who maintain it and understand why they use RS or don't use it. Time to go bug Brown Athletics!
 
 
 
