@@ -4,7 +4,7 @@ This is a project that the Brown Daily Herald's editors wanted to look into afte
 
 On this website you can find jupyter notebooks that I used to scrape rosters from the Brown Athletics website (Brown athletes retention, Automating Selenium loop, etc). In the Final folder, you'll find nice clean data, a notebook I used to analyze the data I scraped, as well as csvs of retention/attrition rates. 
 ___
-At the moment, the definition of attrition is simple: number of people who left the team from one year to the next / the number of people who were not seniors on the team * 100. You might find that this needs to be refined; see the note below.
+At the moment, the definition of attrition is simple: (number of people who left the team from one year to the next / the number of people who were not seniors on the team) * 100. You might find that this needs to be refined; see the note below.
 ___
 
 My analyses notebooks have section headers to explain the code that follows, and function comments are inline. Questions that arise about my data over the course of my analysis are also inline. 
